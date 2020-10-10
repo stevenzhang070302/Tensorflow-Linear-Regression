@@ -16,3 +16,9 @@ and the grades these students are getting (G3 in the spreadsheet). The model cre
  
  ![demo1](https://github.com/stevenzhang070302/Tensorflow-Linear-Regression/blob/main/demo1.PNG?raw=true)
  ![demo2](https://github.com/stevenzhang070302/Tensorflow-Linear-Regression/blob/main/demo2.PNG?raw=true)
+
+
+# Instructions
+* Download the folder and open it up in google colab(Preferrably)
+* Click run on linearRegressionModel.ipynb
+* Read description to help understand the outputs
