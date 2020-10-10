@@ -14,5 +14,5 @@ and the grades these students are getting (G3 in the spreadsheet). The model cre
  
  # Demo
  
- ![demo1](https://github.com/stevenzhang070302/Tensorflow-Linear-Regression/blob/main/demo1.png?raw=true)
- ![demo2](https://github.com/stevenzhang070302/Tensorflow-Linear-Regression/blob/main/demo2.png?raw=true)
+ ![demo1](https://github.com/stevenzhang070302/Tensorflow-Linear-Regression/blob/main/demo1.PNG?raw=true)
+ ![demo2](https://github.com/stevenzhang070302/Tensorflow-Linear-Regression/blob/main/demo2.PNG?raw=true)
